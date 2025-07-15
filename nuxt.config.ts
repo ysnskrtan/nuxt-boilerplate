@@ -15,13 +15,5 @@ export default defineNuxtConfig({
     '@nuxt/scripts',
     '@nuxt/test-utils',
     '@primevue/nuxt-module'
-  ],
-
-  primevue: {
-    options: {
-      theme: {
-        preset: 'lara'
-      }
-    }
-  }
-})
+  ]
+    })
